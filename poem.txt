@@ -1,4 +1,4 @@
-The Raimbow and the Unicorn
+The Raimbow and the Unicorn and the pony
 
 Purple
 Pink
@@ -10,4 +10,4 @@ Yellow
 light Red
 Red
 These are the colors of the rainbow. 
-and the unicorn.c
+and the unicorn and the pony
