@@ -5,5 +5,6 @@ Orange
 Green
 Blue
 Yellow
+light Red
 Red
 These are the colors of the rainbow. 
