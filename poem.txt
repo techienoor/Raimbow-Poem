@@ -1,10 +1,13 @@
-The Raimbow
+The Raimbow and the Unicorn
+
 Purple
 Pink
 Orange
 Green
+Unicorn
 Blue
 Yellow
 light Red
 Red
 These are the colors of the rainbow. 
+and the unicorn.c
